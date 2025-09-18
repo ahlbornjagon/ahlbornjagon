@@ -12,7 +12,7 @@ I am a 2021 graduate of Bowling Green State University with my B.S. in Computer 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,swift,raspberrypi,linux,cmake,bash,git,github,vscode,arduino,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,docker,raspberrypi,linux,cmake,bash,git,github,vscode,arduino,md)](https://skillicons.dev)
 
 ## Get in Contact 
 
