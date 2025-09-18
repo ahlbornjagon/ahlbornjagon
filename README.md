@@ -2,7 +2,7 @@
 
 ## About me 👨‍💻
 
-I am a 2021 graduate of Bowling Green State University with my B.S. in Computer Engineering! I am currently working at Cromulence as an Embedded Software Engineer as wella as pursuing my M.S. in Computer Science at Georgia Tech. I am passionate in low-level systems development and optimization with a focus in Cybersecurity. 
+I am a 2021 graduate of Bowling Green State University with my B.S. in Computer Engineering! I am currently working at Cromulence as an Embedded Software Engineer as well as pursuing my M.S. in Computer Science at Georgia Tech. I am passionate in low-level systems development and optimization with a focus in Cybersecurity. 
 * 🖥️ Current projects:
   * Voidstar Hardware Hacking Course
   * C protocol development (UART, I2C, SPI, etc)
